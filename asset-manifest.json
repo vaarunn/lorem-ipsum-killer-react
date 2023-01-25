@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lorem-ipsum-killer-react/static/css/main.4ac94dca.css",
+    "main.js": "/lorem-ipsum-killer-react/static/js/main.73c3e302.js",
+    "index.html": "/lorem-ipsum-killer-react/index.html",
+    "main.4ac94dca.css.map": "/lorem-ipsum-killer-react/static/css/main.4ac94dca.css.map",
+    "main.73c3e302.js.map": "/lorem-ipsum-killer-react/static/js/main.73c3e302.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ac94dca.css",
+    "static/js/main.73c3e302.js"
+  ]
+}
